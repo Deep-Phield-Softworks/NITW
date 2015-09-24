@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: 896eaa30eb2264c34a48830f78537b45
+timeCreated: 1443118481
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tdspDemo_0
+    21300002: tdspDemo_1
+    21300004: tdspDemo_2
+    21300006: tdspDemo_3
+    21300008: tdspDemo_4
+    21300010: tdspDemo_5
+    21300012: tdspDemo_6
+    21300014: tdspDemo_7
+    21300016: tdspDemo_8
+    21300018: tdspDemo_9
+    21300020: tdspDemo_10
+    21300022: tdspDemo_11
+    21300024: tdspDemo_12
+    21300026: tdspDemo_13
+    21300028: tdspDemo_14
+    21300030: tdspDemo_15
+    21300032: tdspDemo_16
+    21300034: tdspDemo_17
+    21300036: tdspDemo_18
+    21300038: tdspDemo_19
+    21300040: tdspDemo_20
+    21300042: tdspDemo_21
+    21300044: tdspDemo_22
+    21300046: tdspDemo_23
+    21300048: tdspDemo_24
+    21300050: tdspDemo_25
+    21300052: tdspDemo_26
+    21300054: tdspDemo_27
+    21300056: tdspDemo_28
+    21300058: tdspDemo_29
+    21300060: tdspDemo_30
+    21300062: tdspDemo_31
+    21300064: tdspDemo_32
+    21300066: tdspDemo_33
+    21300068: tdspDemo_34
+    21300070: tdspDemo_35
+    21300072: tdspDemo_36
+    21300074: tdspDemo_37
+    21300076: tdspDemo_38
+    21300078: tdspDemo_39
+    21300080: tdspDemo_40
+    21300082: tdspDemo_41
+    21300084: tdspDemo_42
+    21300086: tdspDemo_43
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: tdspDemo_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 351
+        width: 54
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 351
+        width: 54
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_2
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 351
+        width: 54
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_3
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 351
+        width: 54
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_4
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 351
+        width: 54
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_5
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 351
+        width: 54
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_6
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 351
+        width: 54
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_7
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 351
+        width: 53
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_8
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 351
+        width: 53
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_9
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 351
+        width: 53
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_10
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 351
+        width: 53
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 234
+        width: 54
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 234
+        width: 54
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 234
+        width: 54
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_14
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 234
+        width: 54
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_15
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 234
+        width: 54
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_16
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 234
+        width: 54
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_17
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 234
+        width: 54
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_18
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 245
+        width: 53
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_19
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 245
+        width: 53
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_20
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 245
+        width: 53
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_21
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 245
+        width: 53
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_22
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 117
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_23
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 117
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_24
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 117
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_25
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 117
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_26
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 117
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_27
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 117
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_28
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 117
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_29
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 119
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_30
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 119
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_31
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 119
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_32
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 119
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_33
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_34
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_35
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_36
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 0
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_37
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 0
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_38
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 0
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_39
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 0
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_40
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 2
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_41
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 2
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_42
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 2
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tdspDemo_43
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
